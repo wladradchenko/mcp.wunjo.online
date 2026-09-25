@@ -1,0 +1,20 @@
+{
+  "name": "wunjo-design",
+  "description": "Design vector graphics in Wunjo Design: create a document, draw shapes and paths, set real type, place images, reuse brand components, then render the page and look at it. The result stays an editable file in the browser editor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wlad Radchenko",
+    "email": "support@wunjo.online"
+  },
+  "homepage": "https://wunjo.online/product/design#mcp",
+  "repository": "https://github.com/wladradchenko/mcp.wunjo.online",
+  "license": "MIT",
+  "keywords": [
+    "wunjo",
+    "wunjo design",
+    "wunjo mcp",
+    "vector design"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
